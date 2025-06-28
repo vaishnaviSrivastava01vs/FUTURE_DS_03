@@ -1,0 +1,501 @@
+﻿StudentID,Name,Course,Overall_Event_Rating,Speaker_Clarity,Organization,Content_Usefulness,Recommend,Additional_Comments
+1,Fatima Martin,BA Economics,1,1,2,5,5,Excellent time management.
+2,Anjali Fernandez,BBA,5,4,2,2,5,"Too long, could be shorter."
+3,John Taylor,BA Economics,5,5,3,3,3,Speakers were hard to hear at times.
+4,Nisha Martin,BCom,4,3,2,5,3,"Not clear, ran out of time."
+5,Daniel Martin,BCA,3,2,1,4,1,Excellent time management.
+6,Jason Menon,BCA,1,5,5,2,1,"Fantastic speaker, very engaging."
+7,Kevin Smith,BA Economics,5,3,4,3,5,"Great content, slides were useful."
+8,Nisha Gupta,BA Economics,2,5,5,4,1,"Not clear, ran out of time."
+9,John Menon,MBA,4,3,5,3,2,Good content but venue was small.
+10,Kevin Noor,BBA,2,3,2,3,2,Loved the networking opportunities.
+11,Michael Brown,BCom,5,2,2,1,2,Venue was perfect.
+12,Kevin Patel,BSc IT,2,4,5,3,2,Slides were very clear and helpful.
+13,Priya Menon,BBA,3,4,1,5,4,Poor communication about schedule.
+14,Ali Sharma,BBA,4,1,2,3,5,Good content but venue was small.
+15,Kevin Singh,BCom,2,2,3,5,3,"Average, could be better organized."
+16,Fatima Sharma,BBA,3,4,1,2,5,Would attend again!
+17,Nisha Gupta,BBA,2,5,4,2,5,"Average, could be better organized."
+18,David White,BBA,2,1,3,4,4,Poor communication about schedule.
+19,Anjali Brown,BSc IT,3,2,3,2,1,Venue was perfect.
+20,Sarah Smith,BCom,3,5,4,1,3,Loved the networking opportunities.
+21,Kevin Sharma,BBA,4,3,3,5,2,"Very well organized, loved the activities."
+22,David Gupta,BCA,4,3,5,3,2,Good content but venue was small.
+23,Fatima Patel,BCom,2,2,2,1,5,Would attend again!
+24,Sarah Noor,MBA,3,4,3,5,3,Good content but venue was small.
+25,Priya Fernandez,BCA,3,1,1,5,3,Venue was perfect.
+26,John Menon,BCA,3,3,1,1,1,Speakers were hard to hear at times.
+27,John Noor,BCA,5,5,4,4,2,"Average, could be better organized."
+28,Michael Noor,MBA,5,5,1,1,2,"Average, could be better organized."
+29,Priya Brown,BA Economics,1,3,1,2,5,Venue was perfect.
+30,Kevin Lee,BCA,1,2,1,1,1,Excellent event! Very professional.
+31,Nisha Sharma,BBA,5,5,5,4,5,Good content but venue was small.
+32,Fatima Smith,MBA,5,2,1,4,4,Excellent time management.
+33,Anjali Williams,BCom,4,2,2,5,2,Speakers were hard to hear at times.
+34,Fatima Singh,MBA,4,2,4,1,4,"Great content, slides were useful."
+35,Laura Patel,BA Economics,2,2,2,1,4,"Not clear, ran out of time."
+36,Emily Smith,BBA,4,5,1,2,1,"Not clear, ran out of time."
+37,Anjali Sharma,BA Economics,4,1,3,5,4,Breaks were well-planned.
+38,Priya Noor,BSc IT,1,3,3,5,1,Speakers were hard to hear at times.
+39,Nisha Davis,BCom,5,1,1,4,5,"Very well organized, loved the activities."
+40,Michael Smith,BA Economics,5,3,2,4,2,"Great content, slides were useful."
+41,Priya Gupta,BSc IT,2,2,1,5,5,Content was too advanced for some.
+42,Jason Fernandez,BCom,5,2,1,1,3,"Average, could be better organized."
+43,Ahmed White,BA Economics,4,2,5,1,5,"Very well organized, loved the activities."
+44,David Lee,BA Economics,1,5,1,2,5,"Great content, slides were useful."
+45,Sarah Brown,MBA,2,5,2,3,5,"Fantastic speaker, very engaging."
+46,Nisha White,BBA,1,1,3,5,1,"Very well organized, loved the activities."
+47,Michael Sharma,MBA,5,3,4,5,4,Speakers were hard to hear at times.
+48,John Smith,BBA,2,1,1,4,1,Interactive sessions were a plus.
+49,Laura Khan,BSc IT,5,1,4,4,4,Would attend again!
+50,Kevin Gupta,BCom,2,3,1,5,2,Loved the networking opportunities.
+51,Kevin White,BCom,4,4,1,4,5,"Average experience, needed better time management."
+52,Sarah Menon,MBA,2,5,5,2,2,"Not clear, ran out of time."
+53,Kevin Gupta,BA Economics,2,2,3,5,3,Loved the networking opportunities.
+54,Fatima Khan,BA Economics,2,3,3,4,3,Poor communication about schedule.
+55,Fatima Williams,MBA,1,1,5,5,4,Slides were very clear and helpful.
+56,Sarah Smith,BA Economics,2,4,1,5,5,"Good overall, some sessions felt rushed."
+57,Priya Fernandez,BBA,3,5,5,5,2,Venue was perfect.
+58,Anjali Taylor,BCom,3,1,2,1,2,Venue was perfect.
+59,Ali Sharma,BCA,1,3,3,5,4,"Great content, slides were useful."
+60,Michael Patel,MBA,1,4,3,1,1,Excellent time management.
+61,Ahmed Fernandez,BA Economics,3,1,1,5,5,"Not clear, ran out of time."
+62,Kevin Khan,BA Economics,1,1,4,3,4,Good content but venue was small.
+63,Anjali Lee,BCom,1,5,3,5,2,Poor communication about schedule.
+64,Ahmed Williams,BCA,5,5,1,4,1,"Average, could be better organized."
+65,Sarah Williams,BCom,4,5,1,5,5,"Very well organized, loved the activities."
+66,Anjali Singh,BCom,1,4,2,2,1,"Too long, could be shorter."
+67,Laura Noor,BA Economics,2,3,1,1,4,Content was too advanced for some.
+68,Michael Khan,BSc IT,5,5,1,1,3,"Great content, slides were useful."
+69,John Taylor,BCA,1,1,4,2,1,"Very well organized, loved the activities."
+70,Sarah Gupta,BCA,1,3,4,2,4,"Average, could be better organized."
+71,Laura Davis,BCA,1,4,4,2,1,Poor communication about schedule.
+72,Ahmed Brown,BCA,5,1,1,4,4,Breaks were well-planned.
+73,David Taylor,BBA,5,3,5,2,4,"Average, could be better organized."
+74,Kevin Sharma,BSc IT,3,3,4,3,3,Venue was perfect.
+75,Ali White,BBA,5,3,1,3,1,"Not clear, ran out of time."
+76,Sarah White,BCom,3,5,5,5,3,Poor communication about schedule.
+77,Ali Lee,BBA,1,5,1,1,5,Slides were very clear and helpful.
+78,Sarah Williams,BBA,2,2,5,2,4,"Good overall, some sessions felt rushed."
+79,Jason Khan,BCA,3,5,5,2,1,Slides were very clear and helpful.
+80,Fatima Taylor,BBA,4,1,4,5,1,"Not clear, ran out of time."
+81,Sofia Noor,BCA,1,3,5,4,5,"Great content, slides were useful."
+82,John Menon,MBA,5,1,5,3,3,Loved the networking opportunities.
+83,Nisha Martin,BCom,5,5,2,4,5,Speakers were hard to hear at times.
+84,John Gupta,BBA,5,3,3,4,4,Good content but venue was small.
+85,Fatima Menon,MBA,4,1,2,1,2,Slides were very clear and helpful.
+86,David Williams,BA Economics,3,2,2,2,5,Would attend again!
+87,Anjali Patel,BCom,2,5,5,1,3,Breaks were well-planned.
+88,Fatima Noor,BSc IT,3,1,5,1,4,"Good overall, some sessions felt rushed."
+89,David Williams,BA Economics,4,4,2,1,5,Interactive sessions were a plus.
+90,John Noor,MBA,5,1,3,3,3,Excellent time management.
+91,Laura Taylor,MBA,5,5,2,5,4,Loved the networking opportunities.
+92,Kevin Martin,BSc IT,5,5,1,3,2,Interactive sessions were a plus.
+93,Fatima Davis,BBA,2,4,1,5,3,"Great content, slides were useful."
+94,Ahmed Khan,BBA,1,3,5,3,4,"Not clear, ran out of time."
+95,David Gupta,BBA,5,4,1,4,5,"Good overall, some sessions felt rushed."
+96,Michael Singh,BBA,4,2,5,3,3,"Average, could be better organized."
+97,Sofia Gupta,BSc IT,2,5,2,5,2,Slides were very clear and helpful.
+98,Michael Lee,BSc IT,4,3,4,5,2,Loved the networking opportunities.
+99,Emily Taylor,BCom,3,4,5,2,5,Slides were very clear and helpful.
+100,Nisha Singh,BCom,2,3,4,2,4,Would attend again!
+101,Michael Brown,MBA,5,3,3,3,3,"Too long, could be shorter."
+102,Ahmed White,BCom,2,5,4,1,3,"Not clear, ran out of time."
+103,Fatima Gupta,BCom,3,2,1,4,3,Would attend again!
+104,Nisha Taylor,BA Economics,2,1,5,2,2,Slides were very clear and helpful.
+105,Daniel Gupta,BSc IT,5,4,2,5,1,Excellent time management.
+106,Michael Patel,MBA,3,5,2,1,2,Venue was perfect.
+107,Priya Lee,BSc IT,4,1,4,2,1,Speakers were hard to hear at times.
+108,Anjali Martin,BCA,1,4,1,1,2,Good content but venue was small.
+109,Daniel Patel,BBA,2,1,4,5,3,Excellent event! Very professional.
+110,David Smith,MBA,2,4,4,5,2,"Fantastic speaker, very engaging."
+111,Ali Patel,BCom,4,3,3,2,2,Interactive sessions were a plus.
+112,Emily Lee,MBA,1,2,2,4,5,"Great content, slides were useful."
+113,Kevin White,BCA,2,4,1,4,2,"Great content, slides were useful."
+114,Sarah Smith,BCom,1,2,4,5,1,"Average experience, needed better time management."
+115,Michael Williams,BSc IT,3,4,5,1,1,Poor communication about schedule.
+116,John Gupta,BSc IT,5,4,1,1,1,Speakers were hard to hear at times.
+117,Priya Patel,BCA,5,5,3,2,2,Poor communication about schedule.
+118,John Khan,MBA,1,3,2,3,1,"Too long, could be shorter."
+119,Fatima Martin,BA Economics,2,1,5,1,3,"Not clear, ran out of time."
+120,Nisha Martin,BCA,3,2,5,4,4,Speakers were hard to hear at times.
+121,Ali Brown,BCom,5,4,1,3,2,Slides were very clear and helpful.
+122,Sofia Smith,BA Economics,3,1,1,4,5,Would attend again!
+123,David Taylor,BCom,1,5,5,2,2,"Average experience, needed better time management."
+124,Kevin Patel,BSc IT,4,5,4,5,3,"Average, could be better organized."
+125,Sofia Singh,BBA,5,4,1,1,3,"Not clear, ran out of time."
+126,Emily Lee,BA Economics,1,5,4,3,2,Excellent time management.
+127,Laura Patel,MBA,1,4,5,5,4,Content was too advanced for some.
+128,Sarah Patel,BSc IT,2,1,4,4,5,Slides were very clear and helpful.
+129,Sofia Sharma,MBA,5,1,1,2,2,"Very well organized, loved the activities."
+130,David Menon,BBA,4,5,2,1,4,"Good overall, some sessions felt rushed."
+131,Ahmed Patel,BBA,1,1,1,4,3,Interactive sessions were a plus.
+132,Ali Lee,MBA,3,3,4,1,2,Speakers were hard to hear at times.
+133,Sarah Menon,MBA,3,5,3,3,2,"Too long, could be shorter."
+134,Nisha Williams,BBA,2,4,3,3,4,Content was too advanced for some.
+135,Kevin Noor,BCom,3,2,1,1,2,Would attend again!
+136,Sofia Gupta,BCom,5,3,1,5,3,Content was too advanced for some.
+137,John Fernandez,BCA,5,2,4,5,5,Slides were very clear and helpful.
+138,Ahmed Lee,BSc IT,2,2,1,2,4,Excellent event! Very professional.
+139,Ahmed Fernandez,MBA,4,3,3,1,5,"Average, could be better organized."
+140,David Fernandez,BA Economics,1,5,3,2,3,"Average, could be better organized."
+141,Emily Davis,BCom,1,3,4,4,2,Content was too advanced for some.
+142,David Menon,BCom,2,2,3,3,3,"Average, could be better organized."
+143,Ali Noor,BCA,1,1,3,3,4,"Average experience, needed better time management."
+144,Laura Khan,BCA,3,3,5,1,1,"Too long, could be shorter."
+145,Fatima Taylor,BCom,3,2,5,4,4,Excellent time management.
+146,Ali Menon,MBA,2,5,4,2,1,Good content but venue was small.
+147,John Williams,BSc IT,2,3,5,3,4,Slides were very clear and helpful.
+148,Ahmed Williams,MBA,1,5,2,4,4,Good content but venue was small.
+149,Kevin Martin,MBA,3,3,5,4,1,Interactive sessions were a plus.
+150,Kevin Brown,MBA,5,1,3,2,4,Breaks were well-planned.
+151,David Davis,MBA,1,1,4,3,5,"Not clear, ran out of time."
+152,Michael Williams,BCA,2,2,5,1,5,Would attend again!
+153,Nisha Martin,BCA,2,1,1,1,4,Excellent time management.
+154,Anjali Singh,BCA,3,4,5,3,4,Breaks were well-planned.
+155,Priya Brown,BBA,5,2,4,2,3,"Not clear, ran out of time."
+156,Michael Khan,MBA,2,5,1,4,2,Venue was perfect.
+157,Nisha Menon,BA Economics,3,2,4,4,5,Slides were very clear and helpful.
+158,Jason Fernandez,MBA,4,1,2,3,1,Would attend again!
+159,Sofia Lee,BCA,1,2,5,2,5,Slides were very clear and helpful.
+160,Sarah Davis,BA Economics,3,5,3,1,3,Speakers were hard to hear at times.
+161,David White,BCom,4,5,3,3,1,Slides were very clear and helpful.
+162,Anjali Sharma,BA Economics,4,3,5,5,1,Venue was perfect.
+163,Sarah Menon,BCom,2,1,1,4,4,Would attend again!
+164,Anjali Gupta,BA Economics,3,2,2,4,3,Speakers were hard to hear at times.
+165,Jason Lee,BCA,3,4,2,1,3,Loved the networking opportunities.
+166,Jason Gupta,BCom,4,2,3,1,5,Slides were very clear and helpful.
+167,Priya Martin,BCom,5,3,3,3,5,Excellent time management.
+168,Emily Singh,BCA,1,4,2,2,4,"Not clear, ran out of time."
+169,Laura Sharma,BSc IT,1,1,4,5,1,Would attend again!
+170,Daniel Martin,BCom,5,2,5,1,2,Interactive sessions were a plus.
+171,Jason Taylor,BBA,5,1,3,2,3,Good content but venue was small.
+172,Anjali Noor,MBA,4,4,4,3,3,"Great content, slides were useful."
+173,Jason Martin,MBA,1,2,4,5,1,Excellent event! Very professional.
+174,Sofia Menon,MBA,2,4,3,5,4,Excellent event! Very professional.
+175,Kevin Smith,BBA,2,2,1,4,2,"Very well organized, loved the activities."
+176,Daniel Khan,BBA,3,4,1,3,5,Interactive sessions were a plus.
+177,Fatima Brown,BCom,1,2,2,2,2,"Too long, could be shorter."
+178,John Sharma,BCA,4,2,2,1,2,Breaks were well-planned.
+179,Daniel Davis,BBA,3,3,5,4,1,"Average, could be better organized."
+180,Sarah Fernandez,MBA,1,1,4,4,1,"Fantastic speaker, very engaging."
+181,David Noor,BSc IT,2,1,1,3,1,"Very well organized, loved the activities."
+182,Nisha Gupta,BCA,4,2,1,4,5,Breaks were well-planned.
+183,Michael Sharma,BA Economics,3,2,5,3,5,Good content but venue was small.
+184,Ali Menon,BCom,5,1,5,2,4,Venue was perfect.
+185,Daniel Brown,BBA,1,3,4,4,2,Slides were very clear and helpful.
+186,Michael Patel,BSc IT,4,1,2,3,3,Would attend again!
+187,Kevin Martin,BCA,2,2,3,2,4,"Too long, could be shorter."
+188,Daniel Lee,BA Economics,1,3,2,4,1,"Great content, slides were useful."
+189,Sarah Menon,BCom,5,2,5,4,1,"Average experience, needed better time management."
+190,Laura Patel,MBA,4,3,3,1,3,"Great content, slides were useful."
+191,Anjali Martin,MBA,4,2,3,5,2,Interactive sessions were a plus.
+192,Jason Smith,BSc IT,3,5,4,2,5,Venue was perfect.
+193,Fatima Sharma,BCA,3,1,2,4,2,"Average experience, needed better time management."
+194,Fatima White,MBA,1,3,4,5,3,Venue was perfect.
+195,Daniel Khan,BA Economics,1,3,5,3,3,"Fantastic speaker, very engaging."
+196,Jason Menon,BBA,1,4,1,4,3,Interactive sessions were a plus.
+197,David Singh,BCA,1,3,2,4,2,"Very well organized, loved the activities."
+198,David White,BCom,2,3,5,1,4,Content was too advanced for some.
+199,Ahmed Khan,BBA,3,2,3,4,5,"Average experience, needed better time management."
+200,Nisha Singh,BSc IT,3,2,1,3,4,"Fantastic speaker, very engaging."
+201,Priya Martin,MBA,4,2,2,3,2,Poor communication about schedule.
+202,Daniel Patel,BBA,4,2,5,1,4,Excellent time management.
+203,Sofia Gupta,MBA,4,5,2,3,1,Poor communication about schedule.
+204,John Davis,BSc IT,3,5,4,2,4,Excellent time management.
+205,Anjali Fernandez,BA Economics,2,2,2,1,5,"Very well organized, loved the activities."
+206,Emily Taylor,MBA,5,4,1,3,4,"Good overall, some sessions felt rushed."
+207,Laura Singh,BA Economics,2,3,2,3,5,Loved the networking opportunities.
+208,John Williams,BSc IT,4,2,2,2,1,"Good overall, some sessions felt rushed."
+209,Priya Davis,BA Economics,5,5,2,4,1,"Not clear, ran out of time."
+210,Daniel Davis,BCom,4,3,5,4,4,"Average experience, needed better time management."
+211,Kevin Menon,BBA,5,1,3,2,5,"Not clear, ran out of time."
+212,David Lee,BBA,3,4,4,2,3,Good content but venue was small.
+213,Priya Davis,MBA,3,5,5,3,2,Excellent event! Very professional.
+214,Ali Martin,BCom,4,4,3,2,2,"Average, could be better organized."
+215,Daniel Taylor,MBA,2,1,5,2,1,Excellent time management.
+216,Anjali Patel,BSc IT,2,4,5,1,5,"Good overall, some sessions felt rushed."
+217,Fatima Patel,BSc IT,3,3,5,1,1,Interactive sessions were a plus.
+218,Jason Brown,BBA,1,1,1,2,1,Excellent time management.
+219,David Davis,BCom,3,1,3,1,5,"Good overall, some sessions felt rushed."
+220,Ahmed Noor,BCom,1,2,2,2,2,Venue was perfect.
+221,Jason Martin,MBA,3,1,3,3,2,Speakers were hard to hear at times.
+222,Jason Singh,MBA,2,4,4,2,5,Poor communication about schedule.
+223,Sarah Martin,BSc IT,3,1,3,4,2,Interactive sessions were a plus.
+224,John Davis,BCom,4,2,5,4,4,Loved the networking opportunities.
+225,Sarah Smith,BBA,2,4,1,1,3,Would attend again!
+226,Fatima Davis,BCA,3,2,2,3,2,Venue was perfect.
+227,Daniel Menon,MBA,3,1,2,5,5,"Too long, could be shorter."
+228,Priya Brown,MBA,2,2,3,2,5,"Good overall, some sessions felt rushed."
+229,Jason Fernandez,BSc IT,4,1,4,2,4,"Great content, slides were useful."
+230,Daniel Taylor,BCA,5,3,4,1,3,"Fantastic speaker, very engaging."
+231,David Taylor,MBA,2,5,4,5,2,"Average, could be better organized."
+232,Priya Patel,BCom,2,2,5,3,5,"Average experience, needed better time management."
+233,Daniel Patel,BSc IT,3,4,4,5,2,Loved the networking opportunities.
+234,Jason Taylor,BBA,4,1,5,3,3,Interactive sessions were a plus.
+235,Priya Davis,BCA,5,1,4,3,3,"Good overall, some sessions felt rushed."
+236,Laura Gupta,BCA,5,4,5,5,4,Good content but venue was small.
+237,Anjali Lee,BBA,4,5,2,4,2,"Good overall, some sessions felt rushed."
+238,Ali Smith,BCom,2,4,5,4,3,Poor communication about schedule.
+239,Sofia Davis,BBA,2,4,1,5,4,Breaks were well-planned.
+240,Michael Noor,BCom,3,5,2,3,2,Would attend again!
+241,Daniel Martin,BSc IT,3,5,1,3,2,Excellent time management.
+242,Laura Fernandez,BSc IT,5,2,4,5,2,Would attend again!
+243,Nisha Menon,MBA,1,4,4,2,3,"Average experience, needed better time management."
+244,John Fernandez,BA Economics,3,5,3,4,2,"Not clear, ran out of time."
+245,Sarah Gupta,BA Economics,3,4,1,1,5,Excellent event! Very professional.
+246,Sofia Smith,BSc IT,3,4,2,1,5,"Too long, could be shorter."
+247,Fatima Sharma,BCom,3,2,3,4,4,Slides were very clear and helpful.
+248,Priya Patel,BSc IT,5,5,5,1,5,"Average experience, needed better time management."
+249,Sofia Lee,BCom,2,5,5,2,5,"Not clear, ran out of time."
+250,Sarah Brown,BSc IT,3,2,5,5,2,"Great content, slides were useful."
+251,Sofia Taylor,BBA,3,4,3,3,4,"Very well organized, loved the activities."
+252,Emily Gupta,BSc IT,4,4,2,5,3,Loved the networking opportunities.
+253,Ahmed Taylor,BA Economics,2,1,1,5,4,"Good overall, some sessions felt rushed."
+254,Fatima Menon,BBA,1,4,5,5,4,Speakers were hard to hear at times.
+255,Sofia Khan,BSc IT,1,4,4,2,2,"Too long, could be shorter."
+256,Michael Sharma,BCA,4,4,5,2,2,Would attend again!
+257,David Khan,BA Economics,5,3,5,3,4,"Very well organized, loved the activities."
+258,Ali Gupta,MBA,5,3,2,3,2,"Too long, could be shorter."
+259,Ali Noor,MBA,2,3,5,3,5,Excellent time management.
+260,Fatima Davis,BCom,4,3,1,5,4,"Average experience, needed better time management."
+261,Sofia Davis,BCom,1,2,2,2,2,"Good overall, some sessions felt rushed."
+262,Ali Davis,BBA,5,2,4,5,4,"Not clear, ran out of time."
+263,Nisha Smith,BCA,5,2,1,5,3,"Average, could be better organized."
+264,John Khan,BBA,3,1,2,2,5,"Good overall, some sessions felt rushed."
+265,Michael Sharma,BCA,2,1,3,3,2,"Good overall, some sessions felt rushed."
+266,Nisha Gupta,BCA,3,1,2,3,5,Excellent time management.
+267,Anjali Noor,BA Economics,5,4,3,5,5,"Fantastic speaker, very engaging."
+268,Ahmed Taylor,BA Economics,4,2,3,2,2,Excellent time management.
+269,Jason Menon,BSc IT,1,3,5,2,3,Would attend again!
+270,Priya Menon,BCA,4,4,2,2,4,"Fantastic speaker, very engaging."
+271,Ali Martin,BCom,5,4,1,2,4,Poor communication about schedule.
+272,Fatima Taylor,MBA,4,1,5,5,1,"Not clear, ran out of time."
+273,John Gupta,BA Economics,5,1,2,5,2,"Average experience, needed better time management."
+274,Sarah Lee,BSc IT,5,5,4,2,1,Slides were very clear and helpful.
+275,Emily Davis,BA Economics,1,3,5,5,3,"Fantastic speaker, very engaging."
+276,Sofia Fernandez,BCom,1,3,1,3,2,Loved the networking opportunities.
+277,Sofia Noor,BA Economics,1,1,1,1,4,"Average experience, needed better time management."
+278,Laura Sharma,BBA,4,3,1,2,3,Interactive sessions were a plus.
+279,John Smith,BA Economics,1,1,2,5,2,Content was too advanced for some.
+280,John Martin,BCom,4,5,4,3,5,Interactive sessions were a plus.
+281,Daniel Menon,BCom,5,2,4,4,4,Would attend again!
+282,Kevin White,BCA,1,5,2,4,4,Venue was perfect.
+283,Daniel Menon,BBA,3,3,2,5,5,Interactive sessions were a plus.
+284,Sarah Gupta,BA Economics,2,3,5,5,2,"Very well organized, loved the activities."
+285,David Brown,MBA,4,2,1,1,2,Content was too advanced for some.
+286,Daniel Patel,BA Economics,3,3,3,2,2,"Great content, slides were useful."
+287,Jason Brown,BSc IT,3,5,3,1,3,Interactive sessions were a plus.
+288,Daniel Martin,BCA,5,4,5,3,5,"Great content, slides were useful."
+289,Laura Taylor,BSc IT,1,1,3,2,2,"Average experience, needed better time management."
+290,Fatima Martin,BBA,3,3,3,2,1,Good content but venue was small.
+291,Sofia Menon,BBA,2,5,3,5,3,Breaks were well-planned.
+292,Nisha Gupta,MBA,4,5,3,3,1,"Great content, slides were useful."
+293,Nisha White,BSc IT,5,3,4,3,2,Slides were very clear and helpful.
+294,Ali Brown,BBA,3,5,5,3,5,Venue was perfect.
+295,Priya Menon,BCom,3,1,4,3,3,Slides were very clear and helpful.
+296,Michael Taylor,BCom,3,2,3,3,4,Venue was perfect.
+297,Kevin Menon,MBA,3,2,1,3,1,"Average experience, needed better time management."
+298,Ali Lee,MBA,5,5,2,1,4,"Very well organized, loved the activities."
+299,Priya White,BA Economics,4,5,1,3,1,Breaks were well-planned.
+300,David Khan,BSc IT,2,1,4,4,2,Content was too advanced for some.
+301,Nisha Williams,BA Economics,4,5,4,5,1,"Too long, could be shorter."
+302,Emily Menon,BCA,1,2,3,1,3,Poor communication about schedule.
+303,Michael Khan,BSc IT,3,3,5,4,2,Interactive sessions were a plus.
+304,Ahmed Patel,BBA,2,4,3,4,4,Speakers were hard to hear at times.
+305,John Lee,BBA,4,2,3,4,5,"Too long, could be shorter."
+306,Anjali Brown,BSc IT,2,5,4,4,1,"Great content, slides were useful."
+307,Ahmed Smith,BCom,2,5,5,5,1,Poor communication about schedule.
+308,Sofia Davis,BA Economics,2,1,2,3,5,Breaks were well-planned.
+309,Fatima Singh,BBA,4,3,4,1,2,"Great content, slides were useful."
+310,Fatima Menon,BA Economics,3,5,4,4,5,"Too long, could be shorter."
+311,Anjali Brown,BSc IT,2,3,1,4,5,Loved the networking opportunities.
+312,John Gupta,BCA,4,1,1,4,5,"Very well organized, loved the activities."
+313,Nisha Martin,BBA,1,4,4,4,5,Interactive sessions were a plus.
+314,Jason Davis,BBA,5,4,1,5,2,"Great content, slides were useful."
+315,John Khan,BSc IT,1,3,4,2,2,Slides were very clear and helpful.
+316,Kevin White,BCA,3,2,3,5,5,Loved the networking opportunities.
+317,Ahmed Menon,BSc IT,4,4,2,4,2,"Average, could be better organized."
+318,Michael Brown,BA Economics,2,1,5,3,3,Speakers were hard to hear at times.
+319,Priya Menon,BCom,1,4,3,1,5,Would attend again!
+320,Kevin Taylor,BSc IT,2,1,5,2,4,"Not clear, ran out of time."
+321,Daniel Williams,BCom,2,4,2,3,1,Interactive sessions were a plus.
+322,Jason White,BSc IT,4,1,2,1,1,Venue was perfect.
+323,Ali Singh,BCom,5,5,3,3,4,"Average experience, needed better time management."
+324,Ali Williams,BCom,3,2,5,3,1,"Good overall, some sessions felt rushed."
+325,Emily Smith,BA Economics,1,1,4,4,5,Speakers were hard to hear at times.
+326,Fatima Smith,BA Economics,2,5,3,3,4,"Very well organized, loved the activities."
+327,Priya Martin,BSc IT,3,1,1,5,4,Poor communication about schedule.
+328,Fatima Lee,BCA,1,2,4,1,1,Venue was perfect.
+329,Michael White,BCA,3,4,3,5,1,Excellent time management.
+330,Emily Lee,BSc IT,2,5,2,1,3,Venue was perfect.
+331,Nisha Gupta,MBA,2,2,1,5,3,Excellent event! Very professional.
+332,Ahmed Williams,BCom,5,4,1,1,4,Excellent event! Very professional.
+333,Nisha Williams,BCA,3,1,2,1,1,"Fantastic speaker, very engaging."
+334,Emily Martin,BSc IT,2,1,2,4,5,Breaks were well-planned.
+335,Sofia Martin,BSc IT,3,3,4,1,4,Venue was perfect.
+336,Anjali Williams,BA Economics,1,3,5,4,5,Breaks were well-planned.
+337,Daniel Davis,BBA,5,1,5,2,5,Slides were very clear and helpful.
+338,Daniel Davis,BCom,1,4,2,3,3,Speakers were hard to hear at times.
+339,Kevin Gupta,BBA,1,2,1,2,2,Would attend again!
+340,Ali Taylor,BCA,2,1,3,4,2,"Too long, could be shorter."
+341,Kevin Menon,BSc IT,2,5,3,3,3,"Average, could be better organized."
+342,Ahmed Davis,BCA,1,5,4,1,5,Slides were very clear and helpful.
+343,Fatima Khan,BCA,5,3,1,2,3,Would attend again!
+344,Sarah Brown,BCA,2,1,2,1,2,"Average experience, needed better time management."
+345,Laura White,BA Economics,4,4,2,2,1,Content was too advanced for some.
+346,Fatima Fernandez,BBA,2,4,1,4,5,Breaks were well-planned.
+347,Laura Davis,BA Economics,2,5,2,2,2,"Good overall, some sessions felt rushed."
+348,David Brown,BSc IT,3,5,4,3,2,Excellent event! Very professional.
+349,Jason Taylor,MBA,3,3,1,1,5,Would attend again!
+350,Ali Khan,BSc IT,5,5,4,4,3,"Fantastic speaker, very engaging."
+351,Jason Williams,BBA,4,4,1,3,5,"Fantastic speaker, very engaging."
+352,Daniel Fernandez,BCA,3,5,2,4,3,Good content but venue was small.
+353,Sofia Menon,BSc IT,1,5,4,5,4,"Average experience, needed better time management."
+354,Emily Taylor,BCA,4,4,2,3,5,"Very well organized, loved the activities."
+355,Kevin Gupta,BCA,2,4,2,5,4,"Great content, slides were useful."
+356,Ahmed Taylor,BCA,1,2,2,2,3,Excellent time management.
+357,Michael Singh,BBA,2,2,2,1,3,Venue was perfect.
+358,Emily Brown,MBA,2,1,1,5,1,Good content but venue was small.
+359,Kevin Williams,BSc IT,4,1,2,3,1,Would attend again!
+360,David Taylor,MBA,3,5,2,3,4,Venue was perfect.
+361,Jason Brown,BA Economics,1,2,3,1,5,Excellent event! Very professional.
+362,Fatima Brown,BCA,4,2,3,1,1,Loved the networking opportunities.
+363,Emily Taylor,BCom,2,1,1,1,5,"Good overall, some sessions felt rushed."
+364,Emily Smith,BA Economics,3,2,4,4,2,Interactive sessions were a plus.
+365,Laura Patel,BCA,3,3,3,2,1,Excellent event! Very professional.
+366,Jason Davis,BA Economics,1,2,3,3,3,"Not clear, ran out of time."
+367,John Sharma,BSc IT,3,5,5,2,4,"Too long, could be shorter."
+368,Michael Sharma,MBA,2,2,5,5,1,Would attend again!
+369,Jason Fernandez,BA Economics,5,1,2,2,5,Interactive sessions were a plus.
+370,Ali Williams,MBA,5,2,3,2,4,Speakers were hard to hear at times.
+371,Michael Davis,BBA,3,3,4,3,4,Loved the networking opportunities.
+372,Emily Brown,BSc IT,3,5,4,3,1,"Fantastic speaker, very engaging."
+373,Kevin Brown,BA Economics,1,1,3,1,3,"Great content, slides were useful."
+374,Daniel Sharma,BA Economics,3,1,5,1,4,Content was too advanced for some.
+375,Kevin White,BCA,2,1,2,2,5,Loved the networking opportunities.
+376,David Martin,BCA,1,4,1,4,1,Venue was perfect.
+377,Fatima Brown,MBA,2,5,2,1,1,"Not clear, ran out of time."
+378,Anjali Khan,BA Economics,2,4,3,1,2,Poor communication about schedule.
+379,Fatima Sharma,BCom,1,1,4,4,5,"Great content, slides were useful."
+380,Ali Taylor,BCom,1,5,2,1,4,Speakers were hard to hear at times.
+381,Nisha Davis,MBA,3,3,2,2,1,Speakers were hard to hear at times.
+382,Anjali Smith,BSc IT,4,4,2,1,4,Speakers were hard to hear at times.
+383,John Menon,MBA,5,3,1,4,3,Would attend again!
+384,Emily Sharma,BCA,2,1,2,4,4,Excellent time management.
+385,Sofia Lee,BBA,2,5,4,2,2,"Average experience, needed better time management."
+386,Ahmed Gupta,BCom,1,1,2,3,4,Speakers were hard to hear at times.
+387,Sarah Fernandez,BSc IT,1,4,5,4,2,Speakers were hard to hear at times.
+388,Sarah Gupta,BCom,1,2,3,4,4,"Too long, could be shorter."
+389,Emily Taylor,BCA,4,5,2,1,2,Venue was perfect.
+390,Anjali Noor,BCom,4,5,3,3,1,"Great content, slides were useful."
+391,Priya Lee,BA Economics,3,5,4,5,5,Slides were very clear and helpful.
+392,Fatima Fernandez,BSc IT,5,4,5,4,3,Good content but venue was small.
+393,Jason Singh,MBA,4,5,2,2,1,"Not clear, ran out of time."
+394,Sofia Khan,BCA,1,2,5,1,3,Breaks were well-planned.
+395,David Davis,BBA,4,3,3,4,1,Good content but venue was small.
+396,Ahmed Khan,BCA,5,3,1,1,5,Excellent time management.
+397,Kevin Khan,BBA,4,4,1,5,3,Speakers were hard to hear at times.
+398,Laura Williams,MBA,2,4,5,2,4,Excellent event! Very professional.
+399,Ahmed Singh,BA Economics,1,2,5,1,2,"Good overall, some sessions felt rushed."
+400,John Fernandez,BA Economics,2,4,3,4,1,Good content but venue was small.
+401,Fatima Brown,BBA,3,1,1,5,3,"Average experience, needed better time management."
+402,Nisha Davis,BSc IT,3,4,1,2,4,"Good overall, some sessions felt rushed."
+403,Ahmed Menon,BCA,4,1,2,5,5,Venue was perfect.
+404,Sarah White,MBA,3,3,4,3,1,Excellent event! Very professional.
+405,Kevin White,BCA,5,4,3,5,5,Slides were very clear and helpful.
+406,Emily White,BBA,3,2,1,5,5,Poor communication about schedule.
+407,Sarah Davis,BCom,1,3,1,1,4,Content was too advanced for some.
+408,Michael Williams,MBA,3,1,4,4,1,Loved the networking opportunities.
+409,John White,BCom,2,2,4,1,2,Would attend again!
+410,Nisha Singh,BSc IT,3,4,5,1,3,Slides were very clear and helpful.
+411,John Davis,BCom,2,4,4,3,2,"Very well organized, loved the activities."
+412,Sarah Patel,BCom,5,4,3,1,1,Would attend again!
+413,Michael Brown,BA Economics,4,4,1,4,2,"Very well organized, loved the activities."
+414,Fatima Khan,BCom,4,1,2,3,4,Poor communication about schedule.
+415,Nisha Patel,BA Economics,4,4,4,1,2,"Not clear, ran out of time."
+416,Nisha Fernandez,BCom,2,4,1,4,5,Breaks were well-planned.
+417,Sarah Sharma,BSc IT,3,5,2,4,2,Slides were very clear and helpful.
+418,Ali Patel,BBA,3,3,2,4,4,Would attend again!
+419,Daniel White,BSc IT,1,4,3,2,2,Poor communication about schedule.
+420,Fatima Menon,BCA,3,1,1,3,3,Good content but venue was small.
+421,Priya White,BBA,4,3,3,1,5,"Average, could be better organized."
+422,Anjali Davis,BSc IT,3,5,4,3,1,"Too long, could be shorter."
+423,Michael White,BCom,1,4,5,2,1,Good content but venue was small.
+424,Michael Khan,MBA,2,5,5,3,3,Interactive sessions were a plus.
+425,Daniel Sharma,BCA,2,2,2,2,2,Interactive sessions were a plus.
+426,Nisha Brown,BSc IT,5,5,1,4,3,"Fantastic speaker, very engaging."
+427,David Fernandez,BCA,2,3,4,5,1,"Average experience, needed better time management."
+428,Ali Noor,BCA,4,2,4,2,2,"Not clear, ran out of time."
+429,Michael Patel,BBA,2,3,1,3,3,"Very well organized, loved the activities."
+430,Sarah Taylor,MBA,5,1,2,5,5,"Very well organized, loved the activities."
+431,Nisha Davis,BSc IT,3,2,4,1,5,Speakers were hard to hear at times.
+432,Laura Patel,BBA,1,2,5,3,5,Excellent time management.
+433,Anjali Menon,BSc IT,1,5,2,1,3,Excellent event! Very professional.
+434,John Menon,BA Economics,5,4,2,4,1,"Great content, slides were useful."
+435,Anjali Smith,BSc IT,3,5,3,1,5,Content was too advanced for some.
+436,Daniel Brown,BCom,4,5,1,5,2,"Not clear, ran out of time."
+437,David White,BSc IT,1,1,3,4,2,Venue was perfect.
+438,Anjali Noor,BA Economics,3,5,1,5,4,"Good overall, some sessions felt rushed."
+439,Nisha Lee,BA Economics,1,2,4,5,4,"Average experience, needed better time management."
+440,Jason Williams,BBA,2,1,1,4,3,"Too long, could be shorter."
+441,Priya Fernandez,BBA,3,4,2,3,2,"Great content, slides were useful."
+442,Daniel Gupta,BCom,4,3,5,5,1,Breaks were well-planned.
+443,Sofia Davis,BBA,2,2,3,4,4,"Fantastic speaker, very engaging."
+444,Sofia White,MBA,1,5,2,5,2,Content was too advanced for some.
+445,Ali Gupta,BCA,2,3,1,4,4,Would attend again!
+446,Jason Martin,BCA,4,5,2,5,4,Content was too advanced for some.
+447,Sarah Gupta,BBA,4,2,2,1,5,Excellent time management.
+448,Fatima Singh,BSc IT,1,1,4,2,3,Excellent time management.
+449,Kevin Williams,BCA,5,2,3,4,5,Would attend again!
+450,Daniel Noor,BSc IT,4,5,3,5,1,Interactive sessions were a plus.
+451,Jason Noor,BSc IT,1,1,1,4,3,Excellent time management.
+452,Sofia Lee,MBA,5,3,3,3,5,Poor communication about schedule.
+453,David Khan,BA Economics,1,1,4,3,3,Content was too advanced for some.
+454,Kevin Brown,BCom,2,1,3,1,1,Loved the networking opportunities.
+455,Fatima Patel,MBA,4,4,1,4,2,"Average experience, needed better time management."
+456,Emily Menon,BCA,4,4,3,5,3,"Not clear, ran out of time."
+457,Emily Martin,MBA,1,1,3,1,2,"Not clear, ran out of time."
+458,Nisha Khan,BCA,4,2,4,3,2,"Good overall, some sessions felt rushed."
+459,Nisha Smith,BA Economics,2,3,4,1,4,Slides were very clear and helpful.
+460,Ali Gupta,BA Economics,4,1,4,3,5,"Average, could be better organized."
+461,Michael White,BSc IT,2,2,1,2,4,"Great content, slides were useful."
+462,Anjali Taylor,BCA,3,4,4,2,4,Breaks were well-planned.
+463,Sofia Davis,BCom,3,2,3,4,5,Loved the networking opportunities.
+464,Fatima White,BBA,2,3,1,4,4,Breaks were well-planned.
+465,Laura Noor,MBA,3,5,5,1,3,"Not clear, ran out of time."
+466,Daniel Brown,BCA,4,4,4,5,1,Speakers were hard to hear at times.
+467,Michael Fernandez,BBA,4,4,2,5,4,"Not clear, ran out of time."
+468,Ahmed Brown,BCom,3,3,2,4,1,Excellent event! Very professional.
+469,Daniel Martin,MBA,3,2,4,5,5,Venue was perfect.
+470,Fatima Gupta,BCA,4,5,5,1,3,Content was too advanced for some.
+471,John Noor,BSc IT,1,5,2,1,4,"Fantastic speaker, very engaging."
+472,David Martin,MBA,4,2,4,1,5,Loved the networking opportunities.
+473,Kevin Fernandez,BBA,5,3,3,3,1,"Average experience, needed better time management."
+474,Ahmed Martin,BCom,5,2,4,4,1,Content was too advanced for some.
+475,Ahmed Smith,BCA,3,1,5,2,4,Speakers were hard to hear at times.
+476,Laura Lee,BA Economics,2,5,4,1,3,Excellent time management.
+477,Priya Menon,MBA,1,3,5,1,3,"Very well organized, loved the activities."
+478,Anjali Patel,BBA,2,1,3,1,1,Slides were very clear and helpful.
+479,Anjali Singh,BA Economics,3,2,5,1,3,Good content but venue was small.
+480,Ahmed Noor,BCA,5,5,3,3,3,Content was too advanced for some.
+481,Jason Lee,BSc IT,3,4,2,1,4,Venue was perfect.
+482,Fatima Patel,BCom,1,4,1,2,2,Good content but venue was small.
+483,Nisha Williams,BCA,4,1,2,4,2,"Not clear, ran out of time."
+484,Laura Smith,BCA,4,3,1,5,5,"Fantastic speaker, very engaging."
+485,David Martin,BCom,5,4,3,3,5,"Fantastic speaker, very engaging."
+486,Ali Noor,BBA,3,1,4,3,3,Venue was perfect.
+487,Anjali Williams,BA Economics,1,2,4,3,4,"Great content, slides were useful."
+488,Ali Brown,BCA,4,3,4,5,2,"Average experience, needed better time management."
+489,Ahmed Patel,BCA,3,2,4,2,4,Content was too advanced for some.
+490,Ahmed Menon,MBA,4,5,2,4,2,Loved the networking opportunities.
+491,Nisha Smith,BA Economics,4,5,4,4,2,Excellent event! Very professional.
+492,Anjali Martin,BCom,1,5,2,4,3,Venue was perfect.
+493,Sarah Noor,BCom,3,3,4,1,1,"Fantastic speaker, very engaging."
+494,David Davis,BCom,3,4,3,3,2,Content was too advanced for some.
+495,Sofia Menon,BSc IT,3,4,1,5,4,Content was too advanced for some.
+496,Jason Gupta,BA Economics,2,4,5,4,1,Slides were very clear and helpful.
+497,John Davis,BCom,1,1,1,2,1,Poor communication about schedule.
+498,Nisha Lee,BSc IT,5,4,2,2,1,Good content but venue was small.
+499,Ahmed Taylor,BCA,3,2,3,4,4,"Average, could be better organized."
+500,Emily Lee,BBA,3,5,3,1,2,"Good overall, some sessions felt rushed."
